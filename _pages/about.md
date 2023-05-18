@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Brief Biography
+A Short Bio
 ====
-I am a second-year Ph.D. student in Information Systems at the University of Texas at San Antonio. My research interests lies at the intersection of machine learning and biomedical informatics.
+Hello, there! My name is Tongnian Wang. I am a second-year Ph.D. student in Information Systems at the University of Texas at San Antonio. 
 
+My research interests lies at the intersection of machine learning and biomedical informatics.
+
+Research Topics: Equity, Bias & Fairness, Privacy, Multimodal Learning
