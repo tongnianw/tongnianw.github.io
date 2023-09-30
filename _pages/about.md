@@ -9,8 +9,8 @@ redirect_from:
 ---
 A Short Bio
 ====
-Hello, there! My name is Tongnian Wang. I am a second-year Ph.D. student in Information Systems at the University of Texas at San Antonio. 
+Hello, there! My name is Tongnian Wang. I am a third-year Ph.D. student in Information Systems at the University of Texas at San Antonio. 
 
-My research interests lies at the intersection of machine learning and biomedical informatics.
+My research interests lies at the intersection of **machine learning** and **biomedical informatics**.
 
-Research Topics: Equity, Bias & Fairness, Privacy, Multimodal Learning
+Research Topics: AI Ethics (Bias & Fairness, Interpretability, Privacy), Multimodal Learning
