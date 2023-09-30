@@ -15,7 +15,17 @@ My research interests lies at the intersection of **machine learning** and **bio
 
 Research Topics: AI Ethics (Bias & Fairness, Interpretability, Privacy), Multimodal Learning
 
+Education
+------
+
+- Ph.D. in Information Technology, The University of Texas at San Antonio, 2021-present
+
+- M.S. in Electrical & Computer Engineering, University of Florida, 2019-2021
+
+- B.ENG. in Electronic & Information Engineering, Wuhan University of Science and Technology, 2015-2019
+
 You can find my CV [here](http://tongnianw.github.io/files/CV_TongnianW_new.pdf).
+
 
 Publications
 ====
