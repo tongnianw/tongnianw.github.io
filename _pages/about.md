@@ -40,3 +40,7 @@ Publications
     Enabling Privacy-Preserving Prediction for Length of Stay in ICU-A Multimodal Federated-Learning-based Approach. European Conference on Information Systems (ECIS), 2023.
 
 
+Interests and Hobbies
+------
+
+Tennis, Piano, Ukulele, Hiking, Road Trip, Love traveling!
