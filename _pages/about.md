@@ -24,7 +24,7 @@ Education
 
 - B.ENG. in Electronic & Information Engineering, *Wuhan University of Science and Technology*, 2015-2019.
 
-You can find my CV [here](http://tongnianw.github.io/files/CV_TongnianW_new.pdf).
+You can find my CV [here](http://tongnianw.github.io/files/CV_TW.pdf).
 
 
 Publications
