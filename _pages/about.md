@@ -13,7 +13,7 @@ Hello, there! My name is Tongnian Wang. I am a third-year Ph.D. student in Infor
 
 My research interests lies at the intersection of **machine learning** and **biomedical informatics**.
 
-Research Topics: AI Ethics (Bias & Fairness, Interpretability, Privacy), Multimodal Learning
+Research Topics: Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning
 
 Education
 ------
