@@ -11,9 +11,10 @@ A Short Bio
 ====
 Hello, there! My name is Tongnian Wang. I am a third-year Ph.D. student in Information Systems at the University of Texas at San Antonio. 
 
-My research interests lies at the intersection of **machine learning** and **biomedical informatics**.
+My research interests lies at the intersection of **Machine Learning** and **Biomedical Informatics**, where I aim to develop responsible AI systems for healthcare while also exploring AI applications that harness multi-modal healthcare data.
 
 Research Topics: Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning
+
 
 Education
 ------
@@ -25,19 +26,6 @@ Education
 - B.ENG. in Electronic & Information Engineering, *Wuhan University of Science and Technology*, 2015-2019.
 
 You can find my CV [here](http://tongnianw.github.io/files/CV_TW.pdf).
-
-
-Publications
-====
-
-- **Tongnian Wang**, Yan Du, Yanmin Gong, Kim-Kwang Raymond Choo, Yuanxiong Guo.
-    Applications of Federated Learning in Mobile Health: Scoping Review. ***Journal of Medical Internet Research***, 2023.
-
-- **Tongnian Wang**, Xingmeng Zhao, Anthony Rio.
-    UTSA-NLP at RadSum23: Multi-modal Retrieval-Based Chest X-Ray Report Summarization. The 22nd Workshop on Biomedical Natural Language Processing and BioNLP Shared Tasks ***(BioNLP)***, 2023.
-
-- **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo. 
-    Enabling Privacy-Preserving Prediction for Length of Stay in ICU-A Multimodal Federated-Learning-based Approach. ***European Conference on Information Systems (ECIS)***, 2023.
 
 
 Interests and Hobbies
