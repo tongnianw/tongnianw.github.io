@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Tongnian's Homepage"
 title_separator          : "-"
 name                     : &name "Tongnian Wang"
 description              : &description "personal description"
