@@ -11,8 +11,8 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($large) {
-    max-width: $large;
+  @include breakpoint($x-large) {
+    max-width: $x-large;
   }
 }
 
@@ -147,7 +147,7 @@
     }
 
     .page__lead {
-      max-width: $medium;
+      max-width: $large;
     }
 
     .page__title {
