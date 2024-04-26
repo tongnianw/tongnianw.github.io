@@ -26,5 +26,5 @@ Under Review & In Preparation
 ------
 
 - **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo, Yanmin Gong.
-    FairPFL: Improving Group Fairness in Cross-Silo Federated Learning with Fairness-Aware Personalization. ***INFORMS Journal on Data Science***, 2024. *(Experimenting & Revising)*
+    FairPFL: Improving Group Fairness in Cross-Silo Federated Learning with Fairness-Aware Personalization. ***INFORMS Journal on Computing***, 2024. *(Experimenting & Revising)*
 
