@@ -9,12 +9,11 @@ redirect_from:
 ---
 A Short Bio
 ====
-Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in Information Systems at the University of Texas at San Antonio. 
+Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio (UTSA). 
 
-<!-- My research interests lies at the intersection of **Machine Learning** and **Biomedical Informatics**, where I aim to develop responsible AI systems for healthcare while also exploring AI applications that harness multi-modal healthcare data. -->
+My research centers around healthcare information systems (IS), with a specific focus on data-driven and AI-powered healthcare decision-making. I aim to develop responsible AI systems for healthcare while also exploring AI applications that harness multimodal healthcare data. My methodological approaches harness advanced AI techniques such as deep learning, federated learning, and natural language processing (NLP). 
 
-Research Topics: Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning, Healthcare IS.
-
+Research Interests: Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning, Healthcare IS.
 
 Education
 ------
