@@ -30,4 +30,4 @@ You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf).
 Interests and Hobbies
 ------
 
-Tennis, Piano, Ukulele, Hiking, Road Trip, Love traveling!
+Tennis, Pickleball, Hiking, Piano, Ukulele, Road Trip, Love traveling!
