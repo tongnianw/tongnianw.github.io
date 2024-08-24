@@ -24,7 +24,7 @@ Education
 
 - B.ENG. in Electronic & Information Engineering, *Wuhan University of Science and Technology*, 2015-2019.
 
-You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf).
+<!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
 
 Interests and Hobbies
