@@ -16,5 +16,5 @@ author_profile: true
 
 **IS 2053 — Programming Languages I with Scripting**  
 ------  
-   ***Instructor***, Undergraduate, Spring 2024
+   ***Instructor***, Undergraduate, Spring 2024  
    *Department of Information Systems and Cyber Security*, UTSA
