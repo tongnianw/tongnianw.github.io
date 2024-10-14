@@ -35,4 +35,4 @@ Under Review & In Preparation
     FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Equitable Clinical Predictions. In preparation for submission: ***Decision Support Systems (DSS)***.
 
 - **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo, Yan Du.
-    Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. Target at: ***Information Systems Research (ISR)***. *(Experimenting & Drafting)*
+    Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. Target at: ***Journal of Management Information Systems (JMIS)***. *(Experimenting & Drafting)*
