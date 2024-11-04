@@ -32,7 +32,7 @@ Under Review & In Preparation
     Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary. ***The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2024. *(Under Review)*
 
 - **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo.
-    FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Equitable Clinical Predictions. In preparation for submission: ***Decision Support Systems (DSS)***.
+    FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Clinical Outcome Prediction in Intensive Care Unit. In preparation for submission: ***Decision Support Systems (DSS)***.
 
 - **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo, Yan Du.
     Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. Target at: ***Journal of Management Information Systems (JMIS)***. *(Experimenting & Drafting)*
