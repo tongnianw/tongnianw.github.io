@@ -20,7 +20,7 @@ My research focuses on developing AI-powered healthcare decision support systems
 
 - Ph.D. in Information Technology, *The University of Texas at San Antonio*, 2021-present.
 - M.S. in Electrical & Computer Engineering, *University of Florida*, 2019-2021.
-- B.ENG. in Electronic & Information Engineering, *Wuhan University of Science and Technology*,  China, 2015-2019.
+- B.Eng. in Electronic & Information Engineering, *Wuhan University of Science and Technology*,  China, 2015-2019.
 
 <!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
