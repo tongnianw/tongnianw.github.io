@@ -41,15 +41,10 @@ My research focuses on developing AI-powered healthcare decision support systems
 ------
 
 - Ph.D. Student of the Year Award, *Alvarez College of Business*, UTSA, 2024
-
 - Ph.D. Excellence Fund Awards, *Alvarez College of Business*, UTSA, 2023-2024
-
 - Graduate School Professional Development Awards, UTSA, 2023-2024
-
 - Achievement Award Scholarship, *Herbert Wertheim College of Engineering*, UF, 2019-2021
-
 - Outstanding Undergraduate Student Award, WUST, 2019
-
 - Top Grade Scholarship, WUST, 2016-2018
 
 🏖️ Interests and Hobbies
