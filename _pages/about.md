@@ -17,14 +17,14 @@ My research focuses on developing AI-powered healthcare decision support systems
 
 📝 Selected Publications
 ------
-- **Tongnian Wang**, Kai Zhang, Jiannan Cai, Yanmin Gong, Kim-Kwang Raymond Choo, and Yuanxiong Guo.
+- **T. Wang**, K. Zhang, J. Cai, Y. Gong, KKR. Choo, Y. Guo.
     Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare. ***Journal of Healthcare Informatics Research (JHIR)***, 2024. 
 
-- **Tongnian Wang**, Yan Du, Yanmin Gong, Kim-Kwang Raymond Choo, Yuanxiong Guo.
+- **T. Wang**, Y. Du, Y. Gong, KKR. Choo, Y. Guo.
     Applications of Federated Learning in Mobile Health: Scoping Review. ***Journal of Medical Internet Research (JMIR)***, 2023.
 
-- **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo. 
-    Enabling Privacy-Preserving Prediction for Length of Stay in ICU-A Multimodal Federated-Learning-based Approach. ***European Conference on Information Systems (ECIS)***, 2023.
+- **T. Wang**, Y. Guo, KKR. Choo. 
+    Enabling Privacy-Preserving Prediction for Length of Stay in ICU-A Multimodal Federated Learning-based Approach. ***European Conference on Information Systems (ECIS)***, 2023.
 
 For the most up-to-date list of my publications, please visit my [Google Scholar](https://scholar.google.com/citations?user=lU1FVqQAAAAJ&hl=en) profile.
 

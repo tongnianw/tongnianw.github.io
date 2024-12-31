@@ -10,7 +10,7 @@ author_profile: true
 
 Publications
 ------
-- **Tongnian Wang**, Kai Zhang, Jiannan Cai, Yanmin Gong, Kim-Kwang Raymond Choo, and Yuanxiong Guo.
+- **Tongnian Wang**, Kai Zhang, Jiannan Cai, Yanmin Gong, Kim-Kwang Raymond Choo, Yuanxiong Guo.
     Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare. ***Journal of Healthcare Informatics Research (JHIR)***, 2024. 
 
 - **Tongnian Wang**, Yan Du, Yanmin Gong, Kim-Kwang Raymond Choo, Yuanxiong Guo.
@@ -28,11 +28,18 @@ Publications
 Under Review & In Preparation
 ------
 
-- Xingmeng Zhao, **Tongnian Wang**, Anthony Rios.
-    Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary. ***The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)***, 2024. *(Under Review)*
+- X. Zhao, **T. Wang**, A. Rios.
+    Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary. 
+    Under Review: ***The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)***.
 
-- **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo.
-    FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Clinical Outcome Prediction in Intensive Care Unit. In preparation for submission: ***Decision Support Systems (DSS)***.
+- **T. Wang** et al.
+    FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Clinical Outcome Prediction in Intensive Care Unit. 
+    In preparation for submission: ***Decision Support Systems (DSS)***.
 
-- **Tongnian Wang**, Yuanxiong Guo, Kim-Kwang Raymond Choo, Yan Du.
-    Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. Target at: ***Journal of Management Information Systems (JMIS)***. *(Experimenting & Drafting)*
+- **T. Wang** et al.
+    Algorithmic Bias in Machine Learning Models for Predicting Opioid Use Disorder Treatment Discontinuation. 
+    In preparation for submission: ***Journal of the American Medical Informatics Association***.
+
+- **T. Wang** et al.
+    Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. 
+    Target at: ***Journal of Management Information Systems***. 
