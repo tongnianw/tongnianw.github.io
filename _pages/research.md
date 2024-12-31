@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-Publications
+📝 Publications
 ------
 - **Tongnian Wang**, Kai Zhang, Jiannan Cai, Yanmin Gong, Kim-Kwang Raymond Choo, and Yuanxiong Guo.
     Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare. ***Journal of Healthcare Informatics Research (JHIR)***, 2024. 

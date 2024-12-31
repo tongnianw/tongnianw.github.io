@@ -15,7 +15,7 @@ My research focuses on developing AI-powered healthcare decision support systems
 
 **Research Interests:** Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning, Healthcare IS.
 
-Education
+📖 Education
 ------
 
 - Ph.D. in Information Technology, *The University of Texas at San Antonio*, 2021-present.
@@ -26,7 +26,21 @@ Education
 
 <!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
-Honors and Awards
+👩🏻‍🏫 Teaching Experience
+------
+
+**IS 1413 — Excel for Business Information Systems**  
+------  
+   ***Instructor***, Undergraduate, Fall 2024  
+   *Department of Information Systems and Cyber Security*, UTSA
+
+
+**IS 2053 — Programming Languages I with Scripting**  
+------  
+   ***Instructor***, Undergraduate, Spring 2024  
+   *Department of Information Systems and Cyber Security*, UTSA
+
+🏆 Honors and Awards
 ------
 
 - Ph.D. Student of the Year Award, *Alvarez College of Business*, UTSA, 2024
@@ -41,7 +55,7 @@ Honors and Awards
 
 - Top Grade Scholarship, WUST, 2016-2018
 
-Interests and Hobbies
+🏖️ Interests and Hobbies
 ------
 
 Tennis, Pickleball, Hiking, Piano, Ukulele, Road Trip, Love traveling!
