@@ -31,22 +31,25 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 📖 Education
 ------
 
-- Ph.D. in Information Technology, Alvarez College of Business, *The University of Texas at San Antonio*, 2021-present.
-- M.S. in Electrical & Computer Engineering, *University of Florida*, 2019-2021.
-- B.Eng. in Electronic & Information Engineering, *Wuhan University of Science and Technology*,  China, 2015-2019.
+- *The University of Texas at San Antonio*, 2021-present
+     Ph.D. in Information Technology, Alvarez College of Business
+- *University of Florida*, 2021
+     M.S. in Electrical & Computer Engineering
+- *Wuhan University of Science and Technology*, China, 2019
+     B.Eng. in Electronic & Information Engineering
 
 <!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
 👩🏻‍🏫 Teaching Experience
 ------
 
+*Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business
+
 - **IS 1413 — Excel for Business Information Systems**  
      ***Instructor***, Undergraduate, Fall 2024  
-     *Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business
 
 - **IS 2053 — Programming Languages I with Scripting**  
      ***Instructor***, Undergraduate, Spring 2024  
-     *Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business
 
 🏆 Honors and Awards
 ------
