@@ -43,11 +43,9 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 👩🏻‍🏫 Teaching Experience
 ------
 
-<span style="font-size: 1.1em;">*Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business</span>
-
+<span style="font-size: 1.1em;">*Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business</span>  
 - **IS 1413 — Excel for Business Information Systems**  
      ***Instructor***, Undergraduate, Fall 2024  
-
 - **IS 2053 — Programming Languages I with Scripting**  
      ***Instructor***, Undergraduate, Spring 2024  
 
