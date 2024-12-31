@@ -16,7 +16,7 @@
 }
 .ai {
 	display:inline-block;
-	font:normal normal normal 14pt/1 Academicons;
+	font:normal normal normal 14px/1 Academicons;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
@@ -324,7 +324,4 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
-}
-.bio-text {
-  font-size: 14pt; /* Adjust the size as needed */
 }
