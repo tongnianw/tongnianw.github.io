@@ -29,16 +29,13 @@ My research focuses on developing AI-powered healthcare decision support systems
 👩🏻‍🏫 Teaching Experience
 ------
 
-**IS 1413 — Excel for Business Information Systems**  
-------  
-   ***Instructor***, Undergraduate, Fall 2024  
-   *Department of Information Systems and Cyber Security*, UTSA
+- **IS 1413 — Excel for Business Information Systems**  
+     ***Instructor***, Undergraduate, Fall 2024  
+     *Department of Information Systems and Cyber Security*, UTSA
 
-
-**IS 2053 — Programming Languages I with Scripting**  
-------  
-   ***Instructor***, Undergraduate, Spring 2024  
-   *Department of Information Systems and Cyber Security*, UTSA
+- **IS 2053 — Programming Languages I with Scripting**  
+     ***Instructor***, Undergraduate, Spring 2024  
+     *Department of Information Systems and Cyber Security*, UTSA
 
 🏆 Honors and Awards
 ------
