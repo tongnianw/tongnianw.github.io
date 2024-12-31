@@ -31,7 +31,7 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 📖 Education
 ------
 
-- Ph.D. in Information Technology, *The University of Texas at San Antonio*, 2021-present.
+- Ph.D. in Information Technology, Alvarez College of Business, *The University of Texas at San Antonio*, 2021-present.
 - M.S. in Electrical & Computer Engineering, *University of Florida*, 2019-2021.
 - B.Eng. in Electronic & Information Engineering, *Wuhan University of Science and Technology*,  China, 2015-2019.
 
