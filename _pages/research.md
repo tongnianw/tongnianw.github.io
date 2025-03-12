@@ -30,16 +30,13 @@ Under Review & In Preparation
 
 - X. Zhao, **T. Wang**, A. Rios.
     Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary. 
-    Under Review: ***The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)***.
+    Under Review.
 
 - **T. Wang** et al.
     FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Clinical Outcome Prediction in Intensive Care Unit. 
-    In preparation for submission: ***Decision Support Systems (DSS)***.
+    Under Review.
 
 - **T. Wang** et al.
     Algorithmic Bias in Machine Learning Models for Predicting Opioid Use Disorder Treatment Discontinuation. 
-    In preparation for submission: ***Journal of the American Medical Informatics Association***.
+    In preparation for submission.
 
-- **T. Wang** et al.
-    Personalized Blood Glucose Level Predictions and Dysglycemia Interventions. 
-    Target at: ***Journal of Management Information Systems***. 

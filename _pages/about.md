@@ -11,7 +11,7 @@ A Short Bio
 ====
 Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio (UTSA). 
 
-My research focuses on developing AI-powered healthcare decision support systems with the goal of mitigating biases and improving predictive accuracy for clinical predictions. My methodological approaches harness advanced AI techniques such as deep learning, federated learning, and natural language processing. 
+My research focuses on developing AI-powered clinical decision support systems that improve patient outcomes and mitigate health disparities. My methodological approaches harness advanced AI techniques such as deep learning, federated learning, natural language processing, generative AI. 
 
 **Research Interests:** Responsible AI (Bias & Fairness, Interpretability, Privacy), Multimodal Learning, Healthcare IS.
 
