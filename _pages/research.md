@@ -38,5 +38,5 @@ Under Review & In Preparation
 
 - **T. Wang** et al.
     Algorithmic Bias in Machine Learning Models for Predicting Opioid Use Disorder Treatment Discontinuation. 
-    In preparation for submission.
+    Under Review.
 
