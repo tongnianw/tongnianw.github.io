@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
+A Short Bio
 ====
 Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio. 
 
