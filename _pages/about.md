@@ -11,7 +11,7 @@ A Short Bio
 ====
 Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio. 
 
-I conduct multidisciplinary research at the intersection of artificial intelligence (AI), data science, and healthcare, with a focus on developing AI-powered tools that are both technically rigorous and socially responsive. Recognizing that clinical environments are inherently socio-technical, where data, technology, clinicians, and patients all interact, I design intelligent decision support systems that not only enhance decision-making but also reliable and trustworthy across diverse patient populations. My work leverages cutting-edge methods such as large language models (LLMs), deep learning, federated learning, and natural language processing. Ultimately, my goal is to advance AI technologies that are not only powerful, but also trustworthy, context-aware, and capable of meaningfully improving patient outcomes. 
+I conduct multidisciplinary research at the intersection of artificial intelligence (AI), data science, and healthcare, where I develop responsible and trustworthy AI solutions that enhance clinical decision-making, support patient care, and improve health outcomes through innovation. My work leverages cutting-edge methods such as large language models (LLMs), deep learning, machine learning, and natural language processing. Ultimately, my goal is to advance AI technologies that are not only powerful, but also trustworthy, context-aware, and capable of meaningfully improving patient outcomes. 
 
 📝 Selected Publications
 ------
