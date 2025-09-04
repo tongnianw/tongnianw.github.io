@@ -405,6 +405,6 @@
   @include breakpoint($large) {
     @include span(11 of 12);  // Full width
     @include prefix(0.5 of 12); // No left margin
-    @include suffix(0.5 of 12); // No right margin
+    @include suffix(0 of 12); // No right margin
   }
 }
