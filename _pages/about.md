@@ -11,7 +11,7 @@ A Short Bio
 ====
 Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio. 
 
-I conduct multidisciplinary research at the intersection of artificial intelligence (AI), data science, and healthcare, where I develop responsible and trustworthy AI solutions that enhance clinical decision-making, support patient care, and improve health outcomes through innovation. My work leverages cutting-edge methods such as large language models (LLMs), deep learning, machine learning, and natural language processing. Ultimately, my goal is to advance AI technologies that are not only powerful, but also trustworthy, context-aware, and capable of meaningfully improving patient outcomes. 
+I conduct multidisciplinary research at the intersection of artificial intelligence (AI), data science, and healthcare information systems, where I develop responsible and trustworthy AI solutions that enhance clinical decision-making, strengthen healthcare delivery, and improve patient outcomes. My work leverages cutting-edge technologies such as large language models (LLMs), deep learning, machine learning, and natural language processing. Ultimately, my goal is to ensure AI innovations translate into better care and healthier lives. 
 
 📝 Selected Publications
 ------
@@ -34,25 +34,26 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 - University of Florida, 2021  
      M.S. in Electrical & Computer Engineering
 - Wuhan University of Science and Technology, China, 2019  
-     B.Eng. in Electronic & Information Engineering
+     B.S. in Electronic & Information Engineering
 
 <!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
 👩🏻‍🏫 Teaching Experience
 ------
 
-<span style="font-size: 1.1em;">*Department of Information Systems and Cyber Security*, UTSA Alvarez College of Business</span>  
+<span style="font-size: 1.1em;">*Department of Information Systems and Cyber Security*, Alvarez College of Business</span>  
 - **IS 1413 — Excel for Business Information Systems**  
-     ***Instructor***, Undergraduate, Fall 2024  
+     ***Instructor***, Undergraduate, Fall 2024, Fall 2025  
 - **IS 2053 — Programming Languages I with Scripting**  
      ***Instructor***, Undergraduate, Spring 2024  
 
 🏆 Honors and Awards
 ------
 
-- Ph.D. Student of the Year Award, *Alvarez College of Business*, UTSA, 2024
-- Ph.D. Excellence Fund Awards, *Alvarez College of Business*, UTSA, 2023-2024
-- Graduate School Professional Development Awards, UTSA, 2023-2024
+- Participation in Doctoral Consortium, Conference on Health IT and Analytics (CHITA), 2025
+- Ph.D. Student of the Year Award, *Alvarez College of Business*, UT San Antonio, 2024
+- Ph.D. Excellence Fund Awards, *Alvarez College of Business*, UT San Antonio, 2023-2024
+- Graduate School Professional Development Awards, UT San Antonio, 2023-2024
 - Achievement Award Scholarship, *Herbert Wertheim College of Engineering*, UF, 2019-2021
 - Outstanding Undergraduate Student Award, WUST, 2019
 - Top Grade Scholarship, WUST, 2016-2018
@@ -60,4 +61,4 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 🏖️ Interests and Hobbies
 ------
 
-Tennis, Pickleball, Hiking, Piano, Ukulele, Road Trip, Love traveling!
+Tennis, Pickleball, Hiking, Piano, Road Trip, Love traveling!

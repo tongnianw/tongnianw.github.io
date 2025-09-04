@@ -10,6 +10,9 @@ author_profile: true
 
 Publications
 ------
+- Xiangxing Guo, **Tongnian Wang**, Yuanxiong Guo, Carolina Vivas-Valencia, Cici Bauer, and Yanmin Gong.
+    State-Specific Explainable Machine Learning for Predicting Premature Dropout in Medication for Opioid Use Disorder. ***IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)***, 2025. 
+
 - **Tongnian Wang**, Kai Zhang, Jiannan Cai, Yanmin Gong, Kim-Kwang Raymond Choo, Yuanxiong Guo.
     Analyzing the Impact of Personalization on Fairness in Federated Learning for Healthcare. ***Journal of Healthcare Informatics Research (JHIR)***, 2024. 
 
@@ -28,15 +31,14 @@ Publications
 Under Review & In Preparation
 ------
 
+- **T. Wang** et al.
+    Toward Trustworthy and Reliable Length of Stay Prediction in Intensive Care Unit: A Fairness-Aware Personalized Federated Learning Approach. 
+
+- **T. Wang** et al.
+    Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder. 
+
+- **T. Wang** et al.
+    Harnessing Large Language Models to Predict Treatment Outcomes in Medication for Opioid Use Disorder. 
+
 - X. Zhao, **T. Wang**, A. Rios.
     Improving Expert Radiology Report Summarization by Prompting Large Language Models with a Layperson Summary. 
-    Under Review.
-
-- **T. Wang** et al.
-    FairPFL: A Fairness-Aware Personalized Federated Learning Approach for Clinical Outcome Prediction in Intensive Care Unit. 
-    Under Review.
-
-- **T. Wang** et al.
-    Algorithmic Bias in Machine Learning Models for Predicting Opioid Use Disorder Treatment Discontinuation. 
-    Under Review.
-
