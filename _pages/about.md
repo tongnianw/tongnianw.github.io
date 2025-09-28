@@ -10,7 +10,7 @@ redirect_from:
 ---
 A Short Bio
 ====
-Hello, there! My name is Tongnian Wang. I am a final-year Ph.D. student in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio. 
+Hello, there! My name is Tongnian Wang. I am a Ph.D. candidate in the Department of Information Systems and Cyber Security at the University of Texas at San Antonio. 
 
 I conduct multidisciplinary research at the intersection of artificial intelligence (AI), data science, and healthcare information systems, where I develop responsible and trustworthy AI solutions that enhance clinical decision-making, strengthen healthcare delivery, and improve patient outcomes. My work leverages cutting-edge technologies such as large language models (LLMs), deep learning, machine learning, and natural language processing. Ultimately, my goal is to ensure AI innovations translate into better care and healthier lives. 
 
@@ -31,11 +31,11 @@ For the most up-to-date list of my publications, please visit my [Google Scholar
 ------
 
 - The University of Texas at San Antonio, 2021-present  
-     Ph.D. in Information Technology, Alvarez College of Business
+     Ph.D., Information Systems and Cyber Security, Alvarez College of Business
 - University of Florida, 2021  
-     M.S. in Electrical & Computer Engineering
+     M.S., Electrical & Computer Engineering
 - Wuhan University of Science and Technology, China, 2019  
-     B.S. in Electronic & Information Engineering
+     B.S., Electronic & Information Engineering
 
 <!-- You can find my CV [here](http://tongnianw.github.io/files/CV_TW_utsa.pdf). -->
 
